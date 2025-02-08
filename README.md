@@ -9,3 +9,6 @@ This is the repository for the Twitter Bot Account Classification project done i
 Please feel free to email me at ruoheng.du@columbia.edu for any more information.
 
 * This project is done in collaboration with Shivank Agrawal, Yiwen Ge, and Yandong Xiang.
+
+<img width="600" alt="technique" src="https://github.com/ruoheng-du/human-bot-account/raw/main/assets/technique.png">
+<img width="600" alt="results" src="https://github.com/ruoheng-du/human-bot-account/raw/main/assets/results.png">
